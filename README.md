@@ -1,2 +1,1 @@
-# hello-world
-This repository is for Labmentix Projects
+I am an adaptable accounting professional and Business Analyst with over a decade of experience in accounting and data. During this period, I have leveraged data to create visualizations, generate insights, and support informed decision-making in my role as an Accounting Epidemiologist.
